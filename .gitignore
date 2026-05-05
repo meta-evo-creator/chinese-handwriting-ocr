@@ -1,0 +1,6 @@
+﻿training/data/*
+training/models/*
+*.pyc
+__pycache__/
+*.onnx
+*.pth
